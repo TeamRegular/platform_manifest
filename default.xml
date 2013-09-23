@@ -388,7 +388,7 @@
   <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="android_vendor_tmobile_providers_ThemeManager" />
-  <project path="vendor/vanir" name="TeamRegular/platform_vendor_vanir" remote="github" revision="jb43" groups="vendor" />
+  <project path="vendor/vanir" name="TeamRegular/platform_vendor_vanir" remote="github" revision="jb43" groups="vendor" >
     <copyfile src="tools/build-vanir.sh" dest="build-vanir.sh" />
   </project>
 
